@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Adrian Ochanyo, a doctor by training, self-taught data scientist and machine learning specialist.
 - 👀 I’m interested in Machine Learning,Data Science,Artificial Intelligence and Security of health data and applications.
-- 🌱 I’m currently learning Python and how to deploy my machine learning models using Flask and Docker
+- 🌱 I’m currently how to deploy my machine learning models using Flask and Docker and AWS; how to monitor performance of the models in production.
 - 💞️ I’m looking to collaborate on any projects in healthcare that would require my expertise in Machine Learning and Data Science.
 - 📫 How to reach me drop me an email here: aochanyo@gmail.com
+- I am proficient in the following:
+
+![download](https://user-images.githubusercontent.com/73839280/201138181-c9f59ae8-2b84-415f-9f9a-300462f7bb0e.png)
+![download](https://user-images.githubusercontent.com/73839280/201138194-ff4855f6-c95c-4f6a-b672-43835988fe0a.jpeg)
+
+![images](https://user-images.githubusercontent.com/73839280/201138250-5fb1d5e1-3d1d-4994-96ce-bfc97a4a9eb1.jpeg)
 
 <!---
 ochanyo/ochanyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
