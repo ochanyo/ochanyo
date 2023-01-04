@@ -8,7 +8,7 @@
 ![download](https://user-images.githubusercontent.com/73839280/201138181-c9f59ae8-2b84-415f-9f9a-300462f7bb0e.png)
 ![download](https://user-images.githubusercontent.com/73839280/201138194-ff4855f6-c95c-4f6a-b672-43835988fe0a.jpeg)
 
-![images](https://user-images.githubusercontent.com/73839280/201138250-5fb1d5e1-3d1d-4994-96ce-bfc97a4a9eb1.jpeg)
+
 
 <!---
 ochanyo/ochanyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
