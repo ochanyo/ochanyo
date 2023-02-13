@@ -5,7 +5,6 @@
 - 📫 How to reach me drop me an email here: aochanyo@gmail.com
 - I am proficient in the following:
 
-![download](https://user-images.githubusercontent.com/73839280/201138181-c9f59ae8-2b84-415f-9f9a-300462f7bb0e.png)
 ![download](https://user-images.githubusercontent.com/73839280/201138194-ff4855f6-c95c-4f6a-b672-43835988fe0a.jpeg)
 
 
